@@ -1,4 +1,4 @@
-# Deepfake Media Detector (Full Application)
+# Deepfake Media Detection Tool With Data Integrity Log
 
 This is a full-stack web application for detecting deepfakes in images and videos. It features a secure user authentication system, an AI-powered detection engine (using CNNs and LSTMs), optional LIME (XAI) explainability, and immutable results-logging to an Ethereum blockchain (Ganache).
 
